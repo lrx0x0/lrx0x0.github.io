@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Hugo Zzo Theme</title>
-    <link>http://example.org/en/publication/</link>
+    <link>/en/publication/</link>
     <description>Recent content in Publications on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>policisse@gmail.com (Felipe)</managingEditor>
+    <webMaster>policisse@gmail.com (Felipe)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,14 +24,14 @@
       
       <item>
         <title>article</title>
-        <link>http://example.org/en/publication/article/</link>
+        <link>/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>policisse@gmail.com (Felipe)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://example.org/en/publication/article/</guid>
+        <guid>/en/publication/article/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Felipe</dc:creator>
         
         
         
@@ -42,14 +42,14 @@
       
       <item>
         <title>book</title>
-        <link>http://example.org/en/publication/book/</link>
+        <link>/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>policisse@gmail.com (Felipe)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://example.org/en/publication/book/</guid>
+        <guid>/en/publication/book/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Felipe</dc:creator>
         
         
         
@@ -60,14 +60,14 @@
       
       <item>
         <title>misc</title>
-        <link>http://example.org/en/publication/misc/</link>
+        <link>/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>policisse@gmail.com (Felipe)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://example.org/en/publication/misc/</guid>
+        <guid>/en/publication/misc/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Felipe</dc:creator>
         
         
         

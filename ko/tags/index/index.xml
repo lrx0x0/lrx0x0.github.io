@@ -7,15 +7,15 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/tags/index/</link>
+    <link>/ko/tags/index/</link>
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>policisse@gmail.com (Felipe)</managingEditor>
+    <webMaster>policisse@gmail.com (Felipe)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/ko/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/ko/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/ko/posts/</link>
+        <link>/ko/posts/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>policisse@gmail.com (Felipe)</author>
         
-        <guid>http://example.org/ko/posts/</guid>
+        <guid>/ko/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
