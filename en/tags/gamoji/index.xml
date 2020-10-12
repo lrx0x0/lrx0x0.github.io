@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>gamoji on Hugo Zzo Theme</title>
+    <title>gamoji on LRx0x0</title>
     <link>/en/tags/gamoji/</link>
-    <description>Recent content in gamoji on Hugo Zzo Theme</description>
+    <description>Recent content in gamoji on LRx0x0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>policisse@gmail.com (Felipe)</managingEditor>
     <webMaster>policisse@gmail.com (Felipe)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/en/tags/gamoji/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,15 +23,15 @@
 
       
       <item>
-        <title>Emoji Support</title>
+        <title>Loren Ipsun</title>
         <link>/en/posts/emoji-support/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
         <author>policisse@gmail.com (Felipe)</author>
-        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <atom:modified>Mon, 12 Oct 2020 12:00:06 +0900</atom:modified>
         <guid>/en/posts/emoji-support/</guid>
-        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere condimentum euismod. Vestibulum lectus tellus, auctor quis leo in, efficitur pretium sapien. Maecenas ante lectus, pharetra a lacus eu, pharetra eleifend sem. Sed sagittis consequat erat, non porta augue sagittis venenatis. Donec bibendum mi ut blandit ultricies. Curabitur id nisi cursus, euismod ante ac, cursus erat. Praesent bibendum urna eu varius ullamcorper. Praesent sodales, lectus quis iaculis ullamcorper, mauris odio fringilla sem, id tempus libero eros nec dolor.</description>
         
-        <dc:creator>Kim</dc:creator>
+        <dc:creator>nyx</dc:creator>
         
         
         
