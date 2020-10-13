@@ -188,6 +188,10 @@
   </url>
   
   <url>
+    <loc>/en/blogroll/</loc>
+  </url>
+  
+  <url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
