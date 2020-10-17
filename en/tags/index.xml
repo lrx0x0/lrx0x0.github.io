@@ -14,7 +14,7 @@
     <managingEditor>policisse@gmail.com (Felipe)</managingEditor>
     <webMaster>policisse@gmail.com (Felipe)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>amoji</title>
-        <link>/en/tags/amoji/</link>
-        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
+        <title>CCNA</title>
+        <link>/en/tags/ccna/</link>
+        <pubDate>Sat, 17 Oct 2020 12:00:06 +0900</pubDate>
         <author>policisse@gmail.com (Felipe)</author>
         
-        <guid>/en/tags/amoji/</guid>
+        <guid>/en/tags/ccna/</guid>
         <description></description>
         
         <dc:creator>Felipe</dc:creator>
@@ -41,12 +41,12 @@
       </item>
       
       <item>
-        <title>bamoji</title>
-        <link>/en/tags/bamoji/</link>
-        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
+        <title>fundamentals</title>
+        <link>/en/tags/fundamentals/</link>
+        <pubDate>Sat, 17 Oct 2020 12:00:06 +0900</pubDate>
         <author>policisse@gmail.com (Felipe)</author>
         
-        <guid>/en/tags/bamoji/</guid>
+        <guid>/en/tags/fundamentals/</guid>
         <description></description>
         
         <dc:creator>Felipe</dc:creator>
@@ -59,48 +59,12 @@
       </item>
       
       <item>
-        <title>emoji</title>
-        <link>/en/tags/emoji/</link>
-        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
+        <title>network</title>
+        <link>/en/tags/network/</link>
+        <pubDate>Sat, 17 Oct 2020 12:00:06 +0900</pubDate>
         <author>policisse@gmail.com (Felipe)</author>
         
-        <guid>/en/tags/emoji/</guid>
-        <description></description>
-        
-        <dc:creator>Felipe</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>gamoji</title>
-        <link>/en/tags/gamoji/</link>
-        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
-        <author>policisse@gmail.com (Felipe)</author>
-        
-        <guid>/en/tags/gamoji/</guid>
-        <description></description>
-        
-        <dc:creator>Felipe</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>namoji</title>
-        <link>/en/tags/namoji/</link>
-        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
-        <author>policisse@gmail.com (Felipe)</author>
-        
-        <guid>/en/tags/namoji/</guid>
+        <guid>/en/tags/network/</guid>
         <description></description>
         
         <dc:creator>Felipe</dc:creator>

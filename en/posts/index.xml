@@ -14,7 +14,7 @@
     <managingEditor>policisse@gmail.com (Felipe)</managingEditor>
     <webMaster>policisse@gmail.com (Felipe)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,38 +23,31 @@
 
       
       <item>
-        <title>Loren Ipsun</title>
-        <link>/en/posts/emoji-support/</link>
-        <pubDate>Mon, 12 Oct 2020 12:00:06 +0900</pubDate>
+        <title>O funcionamento de um Switch</title>
+        <link>/en/posts/switch-logic/</link>
+        <pubDate>Sat, 17 Oct 2020 12:00:06 +0900</pubDate>
         <author>policisse@gmail.com (Felipe)</author>
-        <atom:modified>Mon, 12 Oct 2020 12:00:06 +0900</atom:modified>
-        <guid>/en/posts/emoji-support/</guid>
-        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere condimentum euismod. Vestibulum lectus tellus, auctor quis leo in, efficitur pretium sapien. Maecenas ante lectus, pharetra a lacus eu, pharetra eleifend sem. Sed sagittis consequat erat, non porta augue sagittis venenatis. Donec bibendum mi ut blandit ultricies. Curabitur id nisi cursus, euismod ante ac, cursus erat. Praesent bibendum urna eu varius ullamcorper. Praesent sodales, lectus quis iaculis ullamcorper, mauris odio fringilla sem, id tempus libero eros nec dolor.</description>
+        <atom:modified>Sat, 17 Oct 2020 12:00:06 +0900</atom:modified>
+        <guid>/en/posts/switch-logic/</guid>
+        <description>Neste primeiro texto apresento a a função e a lógica básica de funcionamento de um switch de camada 2. A principal função de um switch é encaminhar frames entre os dispositivos dentro de uma mesma rede. O Switch pode decidir encaminhar ou ignorar um Frame que recebe baseado na análise do MAC address de origem e de destino.
+ Frame é o nome dado a &amp;lsquo;unidade de dado&amp;rsquo; na segunda camada do modelo TCP/IP.</description>
         
-        <dc:creator>nyx</dc:creator>
+        <dc:creator>Poli</dc:creator>
         
         
         
         
           
             
-              <category>emoji</category>
+              <category>fundamentals</category>
             
           
             
-              <category>gamoji</category>
+              <category>network</category>
             
           
             
-              <category>namoji</category>
-            
-          
-            
-              <category>bamoji</category>
-            
-          
-            
-              <category>amoji</category>
+              <category>CCNA</category>
             
           
         
